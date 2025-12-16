@@ -78,3 +78,25 @@
   width: 250px;
   height: 250px;
 }
+
+.footersection {
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: space-between; /* left | center | right */
+  padding: 20px;
+}
+
+.Box {
+  width: 40%;
+}
+
+.mbox {
+  width: 20%;
+  text-align: center; /* CENTER TEXT */
+  font-weight: bold;
+}
+
+.rbox {
+  width: 40%;
+  text-align: right;
+}
